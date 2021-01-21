@@ -1,0 +1,7 @@
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\obj\Debug\assign_1.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\obj\Debug\assign_1.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\bin\Debug\assign_1.exe.config
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\bin\Debug\assign_1.exe
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\bin\Debug\assign_1.pdb
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\obj\Debug\assign_1.exe
+C:\Users\jerry\Desktop\C#_lab_1\C-Sharp-Course-1\assign_1\assign_1\obj\Debug\assign_1.pdb
